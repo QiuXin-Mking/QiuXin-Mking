@@ -13,9 +13,6 @@
   <a href="mailto:qiuxin_mking@foxmail.com">
     <img src="https://img.shields.io/badge/Email-qiuxin_mking@foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/qiuxin">
-    <img src="https://img.shields.io/badge/LinkedIn-qiuxin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </p>
 
 ---
