@@ -10,8 +10,8 @@
   <a href="https://github.com/QiuXin-Mking">
     <img src="https://img.shields.io/badge/GitHub-QiuXin--Mking-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:qiuxin@example.com">
-    <img src="https://img.shields.io/badge/Email-qiuxin@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:qiuxin_mking@foxmail.com">
+    <img src="https://img.shields.io/badge/Email-qiuxin_mking@foxmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/qiuxin">
     <img src="https://img.shields.io/badge/LinkedIn-qiuxin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -22,31 +22,16 @@
 
 ### 👨‍💻 About Me
 
-```go
-package main
+<p align="center">
+  <b>Full-Stack Engineer</b> passionate about building products that help people learn better.
+</p>
 
-type Engineer struct {
-    Name     string
-    Role     string
-    Focus    []string
-    Motto    string
-}
+- 🎯 **Focus** — Spaced Repetition Systems, Web Architecture, Developer Tooling
+- 🛠️ **Building** — [Self-Improvement](https://github.com/QiuXin-Mking/self-improvement) · aCLI Doc
+- 📍 **Based in** — China
+- ⚡ **Motto** — *Build systems that make knowledge stick.*
+- 🌱 **Learning** — AI-Assisted Development, System Design
 
-func main() {
-    me := Engineer{
-        Name:  "QiuXin",
-        Role:  "Full-Stack Engineer",
-        Focus: []string{
-            "Spaced Repetition Systems",
-            "Web Application Architecture",
-            "CLI & Developer Tooling",
-            "AI-Assisted Development",
-        },
-        Motto: "Build systems that make knowledge stick.",
-    }
-    _ = me
-}
-```
 
 ### 🛠️ Tech Stack
 
