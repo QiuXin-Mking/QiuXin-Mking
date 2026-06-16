@@ -37,13 +37,14 @@ Experienced with Go, Vue 3, TypeScript, and the full web development lifecycle.
 
 ## 🎓 Education
 
-*Add your education here*
+**Nanchang Hangkong University** (南昌航空大学)
+- B.Eng. in Automation (自动化)
+- *Add graduation year and any academic highlights here*
 
 ## 📬 Contact
 
 - GitHub: [@QiuXin-Mking](https://github.com/QiuXin-Mking)
-- Email: *update me*
-- LinkedIn: *update me*
+- Email: qiuxin_mking@foxmail.com
 
 ---
 
